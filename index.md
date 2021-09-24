@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome Fullfillment mobile application
 
-You can use the [editor on GitHub](https://github.com/kavianhabib/fullfillment_mobile_application/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This application was built to demonstrate the workflow in the Amazon fulfillment center. It uses React Native for front-end and Firebase as for storing data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Parts 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are two parts in this project: first one is the user view and the second one for staff in fulfillment center.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## User View
 
-- Bulleted
-- List
+### User Login Page
 
-1. Numbered
-2. List
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231827.png)
 
-**Bold** and _Italic_ and `Code` text
+### User Main page at it's raw form
 
-[Link](url) and ![Image](src)
-```
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231842.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Item
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231855.png)
 
-### Jekyll Themes
+### shopping cart
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231911.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kavianhabib/fullfillment_mobile_application/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### payment section
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231915.png)
 
-### Support or Contact
+## Fulfillment staff page
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-224732.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Sample stower page
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-230959.png)
+
+## Sample stower page 2
+![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231103.png)
+
