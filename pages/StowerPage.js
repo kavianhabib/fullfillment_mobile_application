@@ -35,6 +35,7 @@ function StowerPage(props){
     
       
       const handleBarCodeScanned = ({ type, data }) => {
+        
         setScanned(true);
         if(!scanShelf){
 
