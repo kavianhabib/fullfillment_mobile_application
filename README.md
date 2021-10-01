@@ -18,22 +18,5 @@ There are two parts in this project: first one is the user view and the second o
 
 ![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231842.png)
 
-### Item
-![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231855.png)
-
-### shopping cart
-![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231911.png)
-
-### payment section
-![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231915.png)
-
-## Fulfillment staff page
-![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-224732.png)
-
-## Sample stower page
-![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-230959.png)
-
-## Sample stower page 2
-![user login page](https://github.com/kavianhabib/fullfillment_mobile_application/blob/main/sample%20images/Screenshot_20210923-231103.png)
 
 
